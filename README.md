@@ -60,20 +60,20 @@
 
 
 ### 🌐 Projects:
-<div style="display:flex " >
+
                           
-<a title="max-fashion" href="https://github.com/Sadanand012/Max_Fashion" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadanand012&repo=Max_Fashion&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a title="max-fashion" href="https://github.com/Sadanand012/Max_Fashion" target="_blank"><img width="282" align="left" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadanand012&repo=Max_Fashion&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
-<a title="Overstock" href="https://github.com/MadhukarKakade/Overstock" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadhukarKakade&repo=Overstock&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a title="Overstock" href="https://github.com/MadhukarKakade/Overstock" target="_blank"><img width="282" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadhukarKakade&repo=Overstock&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
-<a title="Anthropologie" href="https://github.com/gaurav7ingh/Anthropologie" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gaurav7ingh&repo=Anthropologie&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a title="Anthropologie" href="https://github.com/gaurav7ingh/Anthropologie" target="_blank"><img width="282" align="end" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gaurav7ingh&repo=Anthropologie&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
-<a title="Sephora" href="https://github.com/gprasadbhat948231/sephora.com" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gprasadbhat948231&repo=sephora.com&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a title="Sephora" href="https://github.com/gprasadbhat948231/sephora.com" target="_blank"><img width="282"  align="left" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gprasadbhat948231&repo=sephora.com&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
-<a title="Flipkart" href="https://github.com/alalUDDIN123/absent-carpenter-3793" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alalUDDIN123&repo=absent-carpenter-3793&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a title="Flipkart" href="https://github.com/alalUDDIN123/absent-carpenter-3793" target="_blank"><img width="282" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alalUDDIN123&repo=absent-carpenter-3793&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
-<a title="Trendsy" href="https://github.com/Shalini1908/Trendsy-Myntra-Clone" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shalini1908&repo=prickly-expert-9128&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-</div>
+<a title="Trendsy" href="https://github.com/Shalini1908/Trendsy-Myntra-Clone" target="_blank"><img width="282" align="right" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shalini1908&repo=prickly-expert-9128&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+
 <br/> 
  
  
