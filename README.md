@@ -62,7 +62,7 @@
 ### 🌐 Projects:
 <div style="display:flex " >
                           
-<img width="282" src="https://github.com/Sadanand012/Max_Fashion?username=Sadanand012&repo=Max_Fashion&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<a title="Portfolio" href="https://github.com/Sadanand012/Max_Fashion" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sadanand012&repo=Max_Fashion&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadhukarKakade&repo=Overstock&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
